@@ -16,7 +16,7 @@ Once you have checked out the code onto a machine with the above prerequisites m
 
 ## Test
 
-Open up test.http and click play. Enjoy!
+Open up test.http, replace {endpoint url} with the url generated during deployment (it will be at the end of the output generated in the terminal) and click play. Enjoy!
 
 ## Useful commands
 
