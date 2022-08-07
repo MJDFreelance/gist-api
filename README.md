@@ -12,7 +12,7 @@ I am assuming that you already have an AWS account configured on your machine an
 
 ## Deployment
 
-Once you have checked out the code onto a machine with the above prerequisites met, simply bootstrap and deploy your deployment using the commands below.
+Once you have checked out the code onto a machine with the above prerequisites met, simply run setup and deploy as described below.
 
 ## Test
 
@@ -23,6 +23,8 @@ Open up test.http and click play. Enjoy!
 * `npm run build`   compile typescript to js
 * `npm run watch`   watch for changes and compile
 * `npm run test`    perform the jest unit tests
+* `npm run setup`   installs dependencies and provisions environment
+* `npm run deploy`  deploys code to AWS
 * `cdk deploy`      deploy this stack to your default AWS account/region
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
