@@ -1,6 +1,6 @@
 # Demo GitHub API with IaC Project
 
-The GutHub API seemed the simplest way to satisfy this. With regards choice of IaC, AWS CDK is all the rage these days so this gave me the opportunity for some more hands on practice with it.
+The GitHub API seemed the simplest way to satisfy this. With regards choice of IaC, AWS CDK is all the rage these days so this gave me the opportunity for some more hands on practice with it.
 
 ## Prerequisites
 
